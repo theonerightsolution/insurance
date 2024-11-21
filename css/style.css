@@ -11526,3 +11526,10 @@ blockquote cite {
   font-size: 19px !important;
   line-height: 29px !important;
 }
+
+.s-about-img img {
+  border-radius: 83%;
+  height: 610px;
+  object-fit: cover;
+  width: 610px;
+}
